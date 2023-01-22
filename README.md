@@ -18,7 +18,7 @@
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/grading-system.git
+> https://github.com/miyendisa/Calculator.git
 
 ---
 
